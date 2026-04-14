@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280" role="img" aria-labelledby="project2Title">
+  <title id="project2Title">AI operations and infrastructure overview</title>
+  <rect width="420" height="280" rx="32" fill="#060b13" />
+  <rect x="26" y="26" width="368" height="228" rx="28" fill="#0f172a" stroke="#102835" stroke-width="2" />
+  <rect x="38" y="38" width="100" height="18" rx="9" fill="#14b8a6" opacity="0.88" />
+  <rect x="38" y="68" width="280" height="12" rx="6" fill="#132a3f" />
+  <rect x="38" y="92" width="280" height="12" rx="6" fill="#132a3f" />
+  <rect x="38" y="124" width="340" height="12" rx="6" fill="#132a3f" />
+  <rect x="38" y="156" width="260" height="12" rx="6" fill="#132a3f" />
+  <rect x="38" y="188" width="220" height="12" rx="6" fill="#132a3f" />
+  <path d="M300 78c0-10 8-18 18-18h24c10 0 18 8 18 18v80c0 10-8 18-18 18h-24c-10 0-18-8-18-18z" fill="#09101b" stroke="#22d3ee" stroke-width="3" />
+  <path d="M330 98v20" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" />
+  <path d="M330 132v14" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" />
+  <path d="M330 158v10" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" />
+  <circle cx="330" cy="224" r="22" fill="#14b8a6" opacity="0.9" />
+  <circle cx="276" cy="220" r="14" fill="#22d3ee" opacity="0.9" />
+  <path d="M88 210h12v20h-12z" fill="#22d3ee" />
+  <path d="M122 180h12v50h-12z" fill="#0ea5e9" />
+  <path d="M156 150h12v80h-12z" fill="#14b8a6" />
+  <path d="M190 128h12v98h-12z" fill="#22d3ee" />
+</svg>

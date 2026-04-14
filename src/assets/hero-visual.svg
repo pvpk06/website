@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 520" role="img" aria-labelledby="heroVisualTitle">
+  <title id="heroVisualTitle">AI dashboard and system view</title>
+  <rect width="680" height="520" rx="40" fill="#05060b"/>
+  <defs>
+    <linearGradient id="gradient01" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" />
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0.55" />
+    </linearGradient>
+    <linearGradient id="gradient02" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#14b8a6" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect x="28" y="28" width="452" height="180" rx="28" fill="#0f172a" stroke="#17324d" stroke-width="2" />
+  <rect x="40" y="46" width="120" height="16" rx="8" fill="#0ea5e9" />
+  <rect x="170" y="46" width="120" height="16" rx="8" fill="#22d3ee" opacity="0.86" />
+  <rect x="40" y="78" width="430" height="24" rx="12" fill="#0f172a" />
+  <rect x="40" y="116" width="430" height="14" rx="7" fill="#1c2536" />
+  <rect x="40" y="140" width="220" height="14" rx="7" fill="#1c2536" />
+  <rect x="40" y="166" width="180" height="14" rx="7" fill="#1c2536" />
+  <rect x="482" y="92" width="172" height="116" rx="20" fill="#08202f" stroke="url(#gradient01)" stroke-width="2" />
+  <circle cx="530" cy="150" r="24" fill="#22d3ee" opacity="0.22" />
+  <circle cx="608" cy="150" r="24" fill="#14b8a6" opacity="0.18" />
+  <rect x="502" y="118" width="112" height="22" rx="12" fill="#0f172a" />
+  <rect x="520" y="160" width="80" height="10" rx="5" fill="#102835" />
+  <rect x="520" y="180" width="60" height="10" rx="5" fill="#102835" />
+  <path d="M68 388c76-84 196-122 292-114 52 4 95 32 122 76" fill="none" stroke="url(#gradient02)" stroke-width="14" stroke-linecap="round" opacity="0.82" />
+  <circle cx="528" cy="408" r="36" fill="none" stroke="#22d3ee" stroke-width="6" opacity="0.55" />
+  <circle cx="612" cy="388" r="14" fill="#14b8a6" />
+  <rect x="28" y="240" width="624" height="224" rx="36" fill="rgba(255,255,255,0.02)" stroke="#0f172a" stroke-width="2" />
+  <path d="M60 280h136" stroke="#22d3ee" stroke-width="8" stroke-linecap="round" />
+  <path d="M60 320h354" stroke="#0ea5e9" stroke-width="12" stroke-linecap="round" opacity="0.6" />
+  <path d="M60 356h248" stroke="#14b8a6" stroke-width="12" stroke-linecap="round" opacity="0.55" />
+  <path d="M60 402h524" stroke="#0f172a" stroke-width="16" stroke-linecap="round" />
+</svg>
